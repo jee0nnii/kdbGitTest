@@ -10,5 +10,6 @@
   <h2> sourcetree로 git 관리하자</h2>
   <h3> git 재미있다.</h3>
   <h3> git 재미있다.2</h3>
+  <h1>원격에 저장완료 성공!!!~</h1>
 </body>
 </html>
