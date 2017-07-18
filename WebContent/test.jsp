@@ -15,5 +15,7 @@
 <h2>branch1 상태에서 수정했어요</h2>
 <h3>branch1 상태에서 또 수정함ㅋ</h3>
 >>>>>>> branch1
+
+<h2>branch3 - 추가</h2>
 </body>
 </html>
